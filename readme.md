@@ -1,0 +1,23 @@
+- Menu
+  - Projects
+    - kry livi (Integration)
+    - calrec (React )
+  - Blog
+    - Switching database on request basis - JPA source
+    - Logging into datadog from docker container
+    - build hibernate modal from integrating model
+    - use properties per development environment
+    - react pass component state
+    - use graphql
+    - basic security considerations when deploying app and lib and service
+    - deploy openapi client and server
+    - use openapi client in nextjs app
+    - use openapi server in spring boot service service app
+    - how to split your complex project
+    - fly migrations
+    - installing ruby and jekyll with homebrew not working
+    - drop me a coffee
+  - Interviews
+    - best how tro deal with interviews in the UK
+    - questions (in interviews that came across)
+      - hibernate - disadvantages advantages - pro and cons
